@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Cleaner</string>
+    <string name="title_text">MASTER CLEANER</string>
+    <string name="pro_version">PRO</string>
+    <string name="privacy_policy">
+    <a href="https://sites.google.com/view/mastercleaner-privacy/privacy-policy">Privacy Policy</a>
+    </string>
+    <string name="charge_booster">Charge Booster</string>
+    <string name="battery_saver">Battery Saver</string>
+    <string name="running_proc">Running Processes</string>
+    <string name="ram_usage">Ram usage</string>
+
+    <string name="optimize">Optimize</string>
+    <string name="optimized">Optimized</string>
+    <string name="scanning">Scanning</string>
+    <string name="storage">Storage</string>
+    <string name="found">Found</string>
+    <string name="charging_time">Charging time remaining</string>
+    <string name="title_activity_result">Result</string>
+    <string name="done">Done</string>
+    <string name="continue_optimization">Continue optimization</string>
+
+</resources>
